@@ -1,0 +1,213 @@
+{
+    "sentences": [
+      {
+        "sentence1": "Kargom ne zaman teslim edilecek?",
+        "sentence2": "Kargonun teslimat tarihi nedir?"
+      },
+      {
+        "sentence1": "Kargo takip numaramı nasıl bulabilirim?",
+        "sentence2": "Kargo takip numarası nasıl öğrenilir?"
+      },
+      {
+        "sentence1": "Kargo gönderim ücretleri nedir?",
+        "sentence2": "Kargonun gönderim masrafları ne kadar?"
+      },
+      {
+        "sentence1": "Kargom kayboldu, ne yapmalıyım?",
+        "sentence2": "Kargo kaybolursa ne gibi adımlar atmalıyım?"
+      },
+      {
+        "sentence1": "İade süreci hakkında bilgi alabilir miyim?",
+        "sentence2": "Ürün iade prosedürleri hakkında bilgi verebilir misiniz?"
+      },
+      {
+        "sentence1": "İade etmek istediğim ürünü nasıl göndermeliyim?",
+        "sentence2": "İade etmek istediğim ürünü nasıl iade etmeliyim?"
+      },
+      {
+        "sentence1": "İade işlemi için gerekli belgeler nelerdir?",
+        "sentence2": "Ürün iade işlemi için hangi belgeler gereklidir?"
+      },
+      {
+        "sentence1": "Kargo iade talebi nasıl oluşturulur?",
+        "sentence2": "Kargo iade talebi nasıl yapılır?"
+      },
+      {
+        "sentence1": "Kargomu iade ettikten sonra ne zaman geri ödeme alırım?",
+        "sentence2": "Ürün iadesi sonrası ne zaman iade alırım?"
+      },
+      {
+        "sentence1": "Ürün iade politikalarınız nedir?",
+        "sentence2": "Ürün iade kurallarınız nelerdir?"
+      },
+      {
+        "sentence1": "Ürün iadesi için kaç gün sürem var?",
+        "sentence2": "Ürünü iade etmek için ne kadar sürem var?"
+      },
+      {
+        "sentence1": "Kargo teslimat adresimi nasıl güncelleyebilirim?",
+        "sentence2": "Kargo teslimat adresimi nasıl değiştirebilirim?"
+      },
+      {
+        "sentence1": "Kargo teslimat sırasında eksik veya hasarlı ürün aldım, ne yapmalıyım?",
+        "sentence2": "Kargo teslimatında eksik veya hasarlı ürün aldığımı fark ettim, ne yapmalıyım?"
+      },
+      {
+        "sentence1": "Kargomun güzergahını nasıl takip edebilirim?",
+        "sentence2": "Kargonun rotasını nasıl izleyebilirim?"
+      },
+      {
+        "sentence1": "Kargo takip numarası nereden bulunur?",
+        "sentence2": "Kargo takip numarası nasıl bulunur?"
+      },
+      {
+        "sentence1": "Kargom hangi kargo şirketiyle gönderildi?",
+        "sentence2": "Kargonun taşıyıcısı hangi kargo firmasıdır?"
+      },
+      {
+        "sentence1": "Kargo teslimat süresi nedir?",
+        "sentence2": "Kargonun ulaşım süresi ne kadar?"
+      },
+      {
+        "sentence1": "Kargomu başka bir adrese yönlendirebilir miyim?",
+        "sentence2": "Kargonun teslimat adresini değiştirebilir miyim?"
+      },
+      {
+        "sentence1": "Ürün sorgulama nasıl yapılır?",
+        "sentence2": "Ürünün durumunu nasıl kontrol edebilirim?"
+      },
+      {
+        "sentence1": "Ürünün durumu hakkında bilgi alabilir miyim?",
+        "sentence2": "Ürünün şu anki durumu hakkında bilgi alabilir miyim?"
+      },
+      {
+        "sentence1": "Kargo ücretini nasıl ödeyebilirim?",
+        "sentence2": "Kargo ücretini nasıl ödeyebilirim?"
+      },
+      {
+        "sentence1": "Kargo teslimat saatleri nedir?",
+        "sentence2": "Kargo ne zaman teslim edilir?"
+      },
+      {
+        "sentence1": "Kargomu yakın bir şubeden alabilir miyim?",
+        "sentence2": "Kargonu yakın bir şubeden alabilir miyim?"
+      },
+      {
+        "sentence1": "Kargom elime ulaşmadı, ne yapmalıyım?",
+        "sentence2": "Kargonuz teslim edilmediyse ne yapmalısınız?"
+      },
+      {
+        "sentence1": "Kargo takip numarasıyla kargomu nerede bulabilirim?",
+        "sentence2": "Kargo takip numarası kullanarak kargonuzu nasıl bulabilirim?"
+      },
+      {
+        "sentence1": "Kargomu başkası alabilir mi?",
+        "sentence2": "Başka biri kargonuzu teslim alabilir mi?"
+      },
+      {
+        "sentence1": "Kargo teslimatı için kimlik bilgisi gerekliliği var mı?",
+        "sentence2": "Kargo teslimi için kimlik belgesi gerekir mi?"
+      },
+      {
+        "sentence1": "Kargo kutusu boyutları hakkında bilgi alabilir miyim?",
+        "sentence2": "Kargo paketi boyutları hakkında bilgi verebilir misiniz?"
+      },
+      {
+        "sentence1": "Kargomu sigortalatmalı mıyım?",
+        "sentence2": "Kargonu sigorta ettirmeli miyim?"
+      },
+      {
+        "sentence1": "Kargo gönderiminde hangi paketleme malzemeleri kullanılmalı?",
+        "sentence2": "Kargo gönderirken hangi ambalaj malzemeleri kullanmalıyım?"
+      },
+      {
+        "sentence1": "Kargom ne kadar sürede teslim edilir?",
+        "sentence2": "Kargonun ulaşması ne kadar sürer?"
+      },
+      {
+        "sentence1": "Kargo takip numarası nasıl elde edebilirim?",
+        "sentence2": "Kargonun takip numarasını nasıl alabilirim?"
+      },
+      {
+        "sentence1": "Ürünümü geri göndermek istiyorum, hangi adımları izlemeliyim?",
+        "sentence2": "İade işlemi için hangi prosedürü takip etmeliyim?"
+      },
+      {
+        "sentence1": "Kargomun güzergahını nasıl takip edebilirim?",
+        "sentence2": "Kargonun rotasını nasıl izleyebilirim?"
+      },
+      {
+        "sentence1": "Kargo takip numarasını nereden bulabilirim?",
+        "sentence2": "Kargo gönderi numarasını nasıl öğrenebilirim?"
+      },
+      {
+        "sentence1": "Kargonun hangi taşıyıcıyla gönderildiğini nasıl öğrenebilirim?",
+        "sentence2": "Kargonun hangi kargo şirketi tarafından taşındığını nasıl öğrenirim?"
+      },
+      {
+        "sentence1": "Kargonun ne kadar süre içinde teslim edilmesi gerekiyor?",
+        "sentence2": "Kargonun maksimum teslim süresi nedir?"
+      },
+      {
+        "sentence1": "Kargomu yeni bir adrese yönlendirebilir miyim?",
+        "sentence2": "Kargonun teslimat adresini değiştirebilir miyim?"
+      },
+      {
+        "sentence1": "Ürünün durumu hakkında güncel bilgi alabilir miyim?",
+        "sentence2": "Ürünün şu anki durumu nedir?"
+      },
+      {
+        "sentence1": "Kargo ücretini hangi yöntemlerle ödeyebilirim?",
+        "sentence2": "Kargo ücretini hangi ödeme seçenekleriyle ödeyebilirim?"
+      },
+      {
+        "sentence1": "Kargomu hangi saatler arasında teslim alabilirim?",
+        "sentence2": "Kargonun teslim alınabileceği saat dilimleri nelerdir?"
+      },
+      {
+        "sentence1": "Kargom elime ulaşmadı, bu durumda ne yapmalıyım?",
+        "sentence2": "Kargonun hala ulaşmamış olması durumunda ne gibi adımlar atmalıyım?"
+      },
+      {
+        "sentence1": "Kargomun teslimatı ne kadar süre içinde yapılır?",
+        "sentence2": "Kargonun teslimatı ne kadar zaman alır?"
+      },
+      {
+        "sentence1": "Kargo takip numarasını nereden alabilirim?",
+        "sentence2": "Kargo gönderi numarası nereden bulunur?"
+      },
+      {
+        "sentence1": "İade işlemi nasıl başlatılır?",
+        "sentence2": "Ürünü iade etmek için ne yapmalıyım?"
+      },
+      {
+        "sentence1": "Kargonun güzergahını nasıl kontrol edebilirim?",
+        "sentence2": "Kargonun rotasını nasıl izleyebilirim?"
+      },
+      {
+        "sentence1": "Kargo takip numarasını nereden öğrenebilirim?",
+        "sentence2": "Kargonun takip numarasını nasıl alabilirim?"
+      },
+      {
+        "sentence1": "Kargonun hangi nakliye firmasıyla gönderildiğini nereden öğrenebilirim?",
+        "sentence2": "Kargonun taşıma şirketi hangisi olduğunu nasıl öğrenirim?"
+      },
+      {
+        "sentence1": "Kargonun kaç günde teslim edilmesi gerekiyor?",
+        "sentence2": "Kargonun teslim süresi ne kadardır?"
+      },
+      {
+        "sentence1": "Kargomu yeni bir adrese yönlendirebilir miyim?",
+        "sentence2": "Kargonun teslimat adresini değiştirebilir miyim?"
+      },
+      {
+        "sentence1": "Ürünün güncel durumu hakkında bilgi alabilir miyim?",
+        "sentence2": "Ürünün şu anki durumu nedir?"
+      },
+      {
+        "sentence1": "Kargo ücretini nasıl ödemeniz gerekiyor?",
+        "sentence2": "Kargo ücretini hangi ödeme yöntemiyle ödemeniz gerekiyor?"
+      }
+    ]
+  }
+  

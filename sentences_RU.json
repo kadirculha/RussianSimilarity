@@ -1,0 +1,305 @@
+{
+  "sentences": [
+    {
+      "sentence1": "Kargom ne zaman teslim edilecek?",
+      "sentence2": "Kargonun teslimat tarihi nedir?",
+      "sentence1_translation": "Когда моя посылка будет доставлена?",
+      "sentence2_translation": "Какая дата доставки посылки?"
+    },
+    {
+      "sentence1": "Kargo takip numaramı nasıl bulabilirim?",
+      "sentence2": "Kargo takip numarası nasıl öğrenilir?",
+      "sentence1_translation": "Как я могу найти номер отслеживания груза?",
+      "sentence2_translation": "Как узнать номер отслеживания груза?"
+    },
+    {
+      "sentence1": "Kargo gönderim ücretleri nedir?",
+      "sentence2": "Kargonun gönderim masrafları ne kadar?",
+      "sentence1_translation": "Сколько стоит доставка груза?",
+      "sentence2_translation": "Каковы расходы на доставку груза?"
+    },
+    {
+      "sentence1": "Kargom kayboldu, ne yapmalıyım?",
+      "sentence2": "Kargo kaybolursa ne gibi adımlar atmalıyım?",
+      "sentence1_translation": "Моя посылка потерялась, что мне делать?",
+      "sentence2_translation": "Что делать, если груз потерялся?"
+    },
+    {
+      "sentence1": "İade süreci hakkında bilgi alabilir miyim?",
+      "sentence2": "Ürün iade prosedürleri hakkında bilgi verebilir misiniz?",
+      "sentence1_translation": "Могу ли я получить информацию о процедуре возврата?",
+      "sentence2_translation": "Можете ли вы предоставить информацию о процедурах возврата товара?"
+    },
+    {
+      "sentence1": "İade etmek istediğim ürünü nasıl göndermeliyim?",
+      "sentence2": "İade etmek istediğim ürünü nasıl iade etmeliyim?",
+      "sentence1_translation": "Как мне отправить товар, который я хочу вернуть?",
+      "sentence2_translation": "Как мне вернуть товар, который я хочу вернуть?"
+    },
+    {
+      "sentence1": "İade işlemi için gerekli belgeler nelerdir?",
+      "sentence2": "Ürün iade işlemi için hangi belgeler gereklidir?",
+      "sentence1_translation": "Какие документы необходимы для процедуры возврата?",
+      "sentence2_translation": "Какие документы требуются для возврата товара?"
+    },
+    {
+      "sentence1": "Kargo iade talebi nasıl oluşturulur?",
+      "sentence2": "Kargo iade talebi nasıl yapılır?",
+      "sentence1_translation": "Как сформировать заявку на возврат груза?",
+      "sentence2_translation": "Как запросить возврат груза?"
+    },
+    {
+      "sentence1": "Kargomu iade ettikten sonra ne zaman geri ödeme alırım?",
+      "sentence2": "Ürün iadesi sonrası ne zaman iade alırım?",
+      "sentence1_translation": "Когда я получу возврат средств после возврата груза?",
+      "sentence2_translation": "Когда я получу возврат после возврата товара?"
+    },
+    {
+      "sentence1": "Ürün iade politikalarınız nedir?",
+      "sentence2": "Ürün iade kurallarınız nelerdir?",
+      "sentence1_translation": "Каковы ваши политики возврата товара?",
+      "sentence2_translation": "Какие у вас правила возврата товара?"
+    },
+    {
+      "sentence1": "Ürün iadesi için kaç gün sürem var?",
+      "sentence2": "Ürünü iade etmek için ne kadar sürem var?",
+      "sentence1_translation": "Сколько дней у меня есть на возврат товара?",
+      "sentence2_translation": "Сколько времени у меня есть на возврат товара?"
+    },
+    {
+      "sentence1": "Kargo teslimat adresimi nasıl güncelleyebilirim?",
+      "sentence2": "Kargo teslimat adresimi nasıl değiştirebilirim?",
+      "sentence1_translation": "Как я могу обновить мой адрес доставки груза?",
+      "sentence2_translation": "Как я могу изменить мой адрес доставки груза?"
+    },
+    {
+      "sentence1": "Kargo teslimat sırasında eksik veya hasarlı ürün aldım, ne yapmalıyım?",
+      "sentence2": "Kargo teslimatında eksik veya hasarlı ürün aldığımı fark ettim, ne yapmalıyım?",
+      "sentence1_translation": "Что мне делать, если я получил недостающий или поврежденный товар во время доставки груза?",
+      "sentence2_translation": "Что делать, если я заметил, что у меня недостающий или поврежденный товар при доставке груза?"
+    },
+    {
+      "sentence1": "Kargomun güzergahını nasıl takip edebilirim?",
+      "sentence2": "Kargonun rotasını nasıl izleyebilirim?",
+      "sentence1_translation": "Как я могу отслеживать маршрут моей посылки?",
+      "sentence2_translation": "Как я могу отслеживать маршрут груза?"
+    },
+    {
+      "sentence1": "Kargo takip numarası nereden bulunur?",
+      "sentence2": "Kargo takip numarası nasıl bulunur?",
+      "sentence1_translation": "Откуда можно получить номер отслеживания груза?",
+      "sentence2_translation": "Как найти номер отслеживания груза?"
+    },
+    {
+      "sentence1": "Kargom hangi kargo şirketiyle gönderildi?",
+      "sentence2": "Kargonun taşıyıcısı hangi kargo firmasıdır?",
+      "sentence1_translation": "С какой курьерской службой была отправлена моя посылка?",
+      "sentence2_translation": "Какая компания является перевозчиком моей посылки?"
+    },
+    {
+      "sentence1": "Kargo teslimat süresi nedir?",
+      "sentence2": "Kargonun ulaşım süresi ne kadar?",
+      "sentence1_translation": "Каково время доставки груза?",
+      "sentence2_translation": "Сколько времени займет доставка груза?"
+    },
+    {
+      "sentence1": "Kargomu başka bir adrese yönlendirebilir miyim?",
+      "sentence2": "Kargonun teslimat adresini değiştirebilir miyim?",
+      "sentence1_translation": "Могу ли я перенаправить мою посылку на другой адрес?",
+      "sentence2_translation": "Могу ли я изменить адрес доставки груза?"
+    },
+    {
+      "sentence1": "Ürün sorgulama nasıl yapılır?",
+      "sentence2": "Ürünün durumunu nasıl kontrol edebilirim?",
+      "sentence1_translation": "Как осуществляется поиск товара?",
+      "sentence2_translation": "Как я могу проверить состояние товара?"
+    },
+    {
+      "sentence1": "Ürünün durumu hakkında bilgi alabilir miyim?",
+      "sentence2": "Ürünün şu anki durumu hakkında bilgi alabilir miyim?",
+      "sentence1_translation": "Могу ли я получить информацию о состоянии товара?",
+      "sentence2_translation": "Могу ли я узнать текущее состояние товара?"
+    },
+    {
+      "sentence1": "Kargo teslimat saatleri nedir?",
+      "sentence2": "Kargo ne zaman teslim edilir?",
+      "sentence1_translation": "Каково время доставки груза?",
+      "sentence2_translation": "Когда будет доставлен груз?"
+    },
+    {
+      "sentence1": "Kargom elime ulaşmadı, ne yapmalıyım?",
+      "sentence2": "Kargonuz teslim edilmediyse ne yapmalısınız?",
+      "sentence1_translation": "Моя посылка не доставлена, что мне делать?",
+      "sentence2_translation": "Что делать, если ваш груз не доставлен?"
+    },
+    {
+      "sentence1": "Kargo takip numarasıyla kargomu nerede bulabilirim?",
+      "sentence2": "Kargo takip numarası kullanarak kargonuzu nasıl bulabilirim?",
+      "sentence1_translation": "Где я могу найти мой груз с помощью номера отслеживания?",
+      "sentence2_translation": "Как найти мой груз, используя номер отслеживания?"
+    },
+    {
+      "sentence1": "Kargomu başkası alabilir mi?",
+      "sentence2": "Başka biri kargonuzu teslim alabilir mi?",
+      "sentence1_translation": "Может ли кто-то другой получить мою посылку?",
+      "sentence2_translation": "Может ли кто-то другой получить ваш груз?"
+    },
+    {
+      "sentence1": "Kargo teslimatı için kimlik bilgisi gerekliliği var mı?",
+      "sentence2": "Kargo teslimi için kimlik belgesi gerekir mi?",
+      "sentence1_translation": "Требуется ли идентификационная информация для доставки груза?",
+      "sentence2_translation": "Нужен ли документ, удостоверяющий личность, для доставки груза?"
+    },
+    {
+      "sentence1": "Kargo kutusu boyutları hakkında bilgi alabilir miyim?",
+      "sentence2": "Kargo paketi boyutları hakkında bilgi verebilir misiniz?",
+      "sentence1_translation": "Могу ли я узнать информацию о размерах упаковки груза?",
+      "sentence2_translation": "Можете ли вы предоставить информацию о размерах упаковки груза?"
+    },
+    {
+      "sentence1": "Kargomu sigortalatmalı mıyım?",
+      "sentence2": "Kargonu sigorta ettirmeli miyim?",
+      "sentence1_translation": "Следует ли страховать мой груз?",
+      "sentence2_translation": "Должен ли я застраховать ваш груз?"
+    },
+    {
+      "sentence1": "Kargo gönderiminde hangi paketleme malzemeleri kullanılmalı?",
+      "sentence2": "Kargo gönderirken hangi ambalaj malzemeleri kullanmalıyım?",
+      "sentence1_translation": "Какие упаковочные материалы следует использовать при отправке груза?",
+      "sentence2_translation": "Какие упаковочные материалы следует использовать при отправке груза?"
+    },
+    {
+      "sentence1": "Kargom ne kadar sürede teslim edilir?",
+      "sentence2": "Kargonun ulaşması ne kadar sürer?",
+      "sentence1_translation": "В течение какого времени будет доставлен мой груз?",
+      "sentence2_translation": "Сколько времени занимает доставка груза?"
+    },
+    {
+      "sentence1": "Kargo takip numarası nasıl elde edebilirim?",
+      "sentence2": "Kargonun takip numarasını nasıl alabilirim?",
+      "sentence1_translation": "Как я могу получить номер отслеживания груза?",
+      "sentence2_translation": "Как я могу получить трек-номер груза?"
+    },
+    {
+      "sentence1": "Ürünümü geri göndermek istiyorum, hangi adımları izlemeliyim?",
+      "sentence2": "İade işlemi için hangi prosedürü takip etmeliyim?",
+      "sentence1_translation": "Я хочу вернуть свой товар, какие шаги мне следует сделать?",
+      "sentence2_translation": "Какую процедуру мне следует следовать для возврата товара?"
+    },
+    {
+      "sentence1": "Kargomun güzergahını nasıl takip edebilirim?",
+      "sentence2": "Kargonun rotasını nasıl izleyebilirim?",
+      "sentence1_translation": "Как мне отслеживать маршрут моей посылки?",
+      "sentence2_translation": "Как я могу отслеживать маршрут груза?"
+    },
+    {
+      "sentence1": "Kargo takip numarasını nereden bulabilirim?",
+      "sentence2": "Kargo gönderi numarasını nereden bulunur?",
+      "sentence1_translation": "Откуда я могу получить номер отслеживания груза?",
+      "sentence2_translation": "Откуда можно получить номер отслеживания груза?"
+    },
+    {
+      "sentence1": "Kargonun hangi taşıyıcıyla gönderildiğini nereden öğrenebilirim?",
+      "sentence2": "Kargonun hangi kargo şirketi tarafından taşındığını nasıl öğrenirim?",
+      "sentence1_translation": "Где я могу узнать, с каким перевозчиком была отправлена моя посылка?",
+      "sentence2_translation": "Как узнать, какой курьерской компанией доставлена моя посылка?"
+    },
+    {
+      "sentence1": "Kargonun ne kadar süre içinde teslim edilmesi gerekiyor?",
+      "sentence2": "Kargonun maksimum teslim süresi nedir?",
+      "sentence1_translation": "В течение какого времени должна быть доставлена посылка?",
+      "sentence2_translation": "Каков максимальный срок доставки груза?"
+    },
+    {
+      "sentence1": "Kargomu yeni bir adrese yönlendirebilir miyim?",
+      "sentence2": "Kargonun teslimat adresini değiştirebilir miyim?",
+      "sentence1_translation": "Могу ли я перенаправить мою посылку на новый адрес?",
+      "sentence2_translation": "Могу ли я изменить адрес доставки груза?"
+    },
+    {
+      "sentence1": "Ürünün durumu hakkında güncel bilgi alabilir miyim?",
+      "sentence2": "Ürünün şu anki durumu nedir?",
+      "sentence1_translation": "Могу ли я получить актуальную информацию о состоянии товара?",
+      "sentence2_translation": "Каково текущее состояние товара?"
+    },
+    {
+      "sentence1": "Kargo ücretini hangi yöntemlerle ödeyebilirim?",
+      "sentence2": "Kargo ücretini hangi ödeme seçenekleriyle ödeyebilirim?",
+      "sentence1_translation": "Какие способы оплаты стоимости доставки груза доступны?",
+      "sentence2_translation": "Какие опции оплаты стоимости доставки груза доступны?"
+    },
+    {
+      "sentence1": "Kargomu hangi saatler arasında teslim alabilirim?",
+      "sentence2": "Kargonun teslim alınabileceği saat dilimleri nelerdir?",
+      "sentence1_translation": "В какое время я могу забрать свой груз?",
+      "sentence2_translation": "В какое время можно забрать груз?"
+    },
+    {
+      "sentence1": "Kargom elime ulaşmadı, bu durumda ne yapmalıyım?",
+      "sentence2": "Kargonun hala ulaşmamış olması durumunda ne gibi adımlar atmalıyım?",
+      "sentence1_translation": "Моя посылка не дошла до меня, что мне делать?",
+      "sentence2_translation": "Что следует предпринять, если моя посылка еще не доставлена?"
+    },
+    {
+      "sentence1": "Kargomun teslimatı ne kadar süre içinde yapılır?",
+      "sentence2": "Kargonun teslimatı ne kadar zaman alır?",
+      "sentence1_translation": "В течение какого времени будет доставлен мой груз?",
+      "sentence2_translation": "Сколько времени занимает доставка груза?"
+    },
+    {
+      "sentence1": "Kargo takip numarasını nereden alabilirim?",
+      "sentence2": "Kargo gönderi numarası nereden bulunur?",
+      "sentence1_translation": "Откуда я могу получить номер отслеживания груза?",
+      "sentence2_translation": "Откуда можно получить номер отслеживания груза?"
+    },
+    {
+      "sentence1": "İade işlemi nasıl başlatılır?",
+      "sentence2": "Ürünü iade etmek için ne yapmalıyım?",
+      "sentence1_translation": "Как инициировать процесс возврата?",
+      "sentence2_translation": "Что мне следует сделать, чтобы вернуть товар?"
+    },
+    {
+      "sentence1": "Kargonun güzergahını nasıl kontrol edebilirim?",
+      "sentence2": "Kargonun rotasını nasıl izleyebilirim?",
+      "sentence1_translation": "Как я могу отслеживать маршрут груза?",
+      "sentence2_translation": "Как я могу следить за маршрутом груза?"
+    },
+    {
+      "sentence1": "Kargo takip numarasını nereden öğrenebilirim?",
+      "sentence2": "Kargonun takip numarasını nasıl alabilirim?",
+      "sentence1_translation": "Откуда я могу узнать номер отслеживания груза?",
+      "sentence2_translation": "Как я могу получить номер отслеживания груза?"
+    },
+    {
+      "sentence1": "Kargonun hangi nakliye firmasıyla gönderildiğini nereden öğrenebilirim?",
+      "sentence2": "Kargonun taşıma şirketi hangisi olduğunu nasıl öğrenirim?",
+      "sentence1_translation": "Где я могу узнать, с какой транспортной компанией была отправлена моя посылка?",
+      "sentence2_translation": "Как я могу узнать, какая компания является перевозчиком моей посылки?"
+    },
+
+    {
+      "sentence1": "Kargonun kaç günde teslim edilmesi gerekiyor?",
+      "sentence2": "Kargonun teslim süresi ne kadardır?",
+      "sentence1_translation": "Сколько дней должна быть доставка груза?",
+      "sentence2_translation": "Каков срок доставки груза?"
+    },
+    {
+      "sentence1": "Kargomu yeni bir adrese yönlendirebilir miyim?",
+      "sentence2": "Kargonun teslimat adresini değiştirebilir miyim?",
+      "sentence1_translation": "Могу ли я перенаправить мою посылку на новый адрес?",
+      "sentence2_translation": "Могу ли я изменить адрес доставки груза?"
+    },
+    {
+      "sentence1": "Ürünün güncel durumu hakkında bilgi alabilir miyim?",
+      "sentence2": "Ürünün şu anki durumu nedir?",
+      "sentence1_translation": "Могу ли я узнать актуальную информацию о состоянии товара?",
+      "sentence2_translation": "Каково текущее состояние товара?"
+    },
+    {
+      "sentence1": "Kargo ücretini nasıl ödemeniz gerekiyor?",
+      "sentence2": "Kargo ücretini hangi ödeme yöntemiyle ödemeniz gerekiyor?",
+      "sentence1_translation": "Как следует оплатить стоимость доставки груза?",
+      "sentence2_translation": "Каким способом следует оплатить стоимость доставки груза?"
+    }
+  ]
+}

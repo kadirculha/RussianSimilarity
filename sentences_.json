@@ -1,0 +1,302 @@
+{
+    "sentences": [
+        {
+            "sentence1": "Kargom ne zaman teslim edilecek?",
+            "sentence2": "Kargonun teslimat tarihi nedir?",
+            "sentence1_translation": "متى سيتم تسليم شحنتي؟",
+            "sentence2_translation": "ما هو تاريخ تسليم الشحنة؟"
+          },
+          {
+            "sentence1": "Kargo takip numaramı nasıl bulabilirim?",
+            "sentence2": "Kargo takip numarası nasıl öğrenilir?",
+            "sentence1_translation": "كيف يمكنني العثور على رقم تتبع الشحنة؟",
+            "sentence2_translation": "كيف يمكن معرفة رقم تتبع الشحنة؟"
+          },
+          {
+            "sentence1": "Kargo gönderim ücretleri nedir?",
+            "sentence2": "Kargonun gönderim masrafları ne kadar?",
+            "sentence1_translation": "ما هي تكلفة شحن الشحنة؟",
+            "sentence2_translation": "كم تبلغ تكلفة شحن الشحنة؟"
+          },
+          {
+            "sentence1": "Kargom kayboldu, ne yapmalıyım?",
+            "sentence2": "Kargo kaybolursa ne gibi adımlar atmalıyım?",
+            "sentence1_translation": "ضاعت شحنتي، ماذا يجب أن أفعل؟",
+            "sentence2_translation": "إذا فُقِدَت الشحنة، ما الخطوات التي يجب اتخاذها؟"
+          },
+          {
+            "sentence1": "İade süreci hakkında bilgi alabilir miyim?",
+            "sentence2": "Ürün iade prosedürleri hakkında bilgi verebilir misiniz?",
+            "sentence1_translation": "هل يمكنني الحصول على معلومات حول عملية الاسترجاع؟",
+            "sentence2_translation": "هل يمكنكم تقديم معلومات حول إجراءات استرجاع المنتج؟"
+          },
+          {
+            "sentence1": "İade etmek istediğim ürünü nasıl göndermeliyim?",
+            "sentence2": "İade etmek istediğim ürünü nasıl iade etmeliyim?",
+            "sentence1_translation": "كيف يجب أن أرسل المنتج الذي أرغب في إرجاعه؟",
+            "sentence2_translation": "كيف يجب أن أقوم بإعادة المنتج الذي أرغب في إرجاعه؟"
+          },
+          {
+            "sentence1": "İade işlemi için gerekli belgeler nelerdir?",
+            "sentence2": "Ürün iade işlemi için hangi belgeler gereklidir?",
+            "sentence1_translation": "ما هي الوثائق اللازمة لعملية الاسترجاع؟",
+            "sentence2_translation": "ما هي الوثائق اللازمة لعملية استرجاع المنتج؟"
+          },
+          {
+            "sentence1": "Kargo iade talebi nasıl oluşturulur?",
+            "sentence2": "Kargo iade talebi nasıl yapılır?",
+            "sentence1_translation": "كيف يمكن إنشاء طلب استرجاع الشحنة؟",
+            "sentence2_translation": "كيف يمكنكم إجراء طلب استرجاع الشحنة؟"
+          },
+          {
+            "sentence1": "Kargomu iade ettikten sonra ne zaman geri ödeme alırım?",
+            "sentence2": "Ürün iadesi sonrası ne zaman iade alırım?",
+            "sentence1_translation": "متى سأتلقى استردادًا بعد إرجاع شحنتي؟",
+            "sentence2_translation": "متى سأتلقى الاسترداد بعد استرجاع المنتج؟"
+          },
+          {
+            "sentence1": "Ürün iade politikalarınız nedir?",
+            "sentence2": "Ürün iade kurallarınız nelerdir?",
+            "sentence1_translation": "ما هي سياسات استرجاع المنتجات الخاصة بكم؟",
+            "sentence2_translation": "ما هي قواعد استرجاع المنتجات لديكم؟"
+          },
+          {
+            "sentence1": "Ürün iadesi için kaç gün sürem var?",
+            "sentence2": "Ürünü iade etmek için ne kadar sürem var?",
+            "sentence1_translation": "كم من الوقت لدي لاسترجاع المنتج؟",
+            "sentence2_translation": "كم من الوقت لدي لإعادة المنتج؟"
+          },
+          {
+            "sentence1": "Kargo teslimat adresimi nasıl güncelleyebilirim?",
+            "sentence2": "Kargo teslimat adresimi nasıl değiştirebilirim?",
+            "sentence1_translation": "كيف يمكنني تحديث عنوان تسليم الشحنة؟",
+            "sentence2_translation": "كيف يمكنني تغيير عنوان تسليم الشحنة؟"
+          },
+          {
+            "sentence1": "Kargo teslimat sırasında eksik veya hasarlı ürün aldım, ne yapmalıyım?",
+            "sentence2": "Kargo teslimatında eksik veya hasarlı ürün aldığımı fark ettim, ne yapmalıyım?",
+            "sentence1_translation": "لقد استلمت منتجًا ناقصًا أو تالفًا أثناء تسليم الشحنة، ماذا يجب أن أفعل؟",
+            "sentence2_translation": "لقد لاحظت أنني استلمت منتجًا ناقصًا أو تالفًا أثناء تسليم الشحنة، ماذا يجب أن أفعل؟"
+          },
+          {
+            "sentence1": "Kargomun güzergahını nasıl takip edebilirim?",
+            "sentence2": "Kargonun rotasını nasıl izleyebilirim?",
+            "sentence1_translation": "كيف يمكنني تتبع مسار شحنتي؟",
+            "sentence2_translation": "كيف يمكنني تتبع مسار الشحنة؟"
+          },
+          {
+            "sentence1": "Kargo takip numarası nereden bulunur?",
+            "sentence2": "Kargo takip numarası nasıl bulunur?",
+            "sentence1_translation": "من أين يمكن العثور على رقم تتبع الشحنة؟",
+            "sentence2_translation": "كيف يمكن العثور على رقم تتبع الشحنة؟"
+          },
+          {
+            "sentence1": "Kargom hangi kargo şirketiyle gönderildi?",
+            "sentence2": "Kargonun taşıyıcısı hangi kargo firmasıdır?",
+            "sentence1_translation": "بأي شركة شحن تم إرسال شحنتي؟",
+            "sentence2_translation": "ما هي شركة الشحن التي نقلت الشحنة؟"
+          },
+          {
+            "sentence1": "Kargo teslimat süresi nedir?",
+            "sentence2": "Kargonun ulaşım süresi نedir?",
+            "sentence1_translation": "ما هو وقت تسليم الشحنة؟",
+            "sentence2_translation": "ما هو وقت وصول الشحنة؟"
+          },
+          {
+            "sentence1": "Kargomu başka bir adrese yönlendirebilir miyim?",
+            "sentence2": "Kargonun teslimat adresini değiştirebilir miyim?",
+            "sentence1_translation": "هل يمكنني توجيه شحنتي إلى عنوان آخر؟",
+            "sentence2_translation": "هل يمكنني تغيير عنوان تسليم الشحنة؟"
+          },
+          {
+            "sentence1": "Ürün sorgulama nasıl yapılır?",
+            "sentence2": "Ürünün durumunu nasıl kontrol edebilirim?",
+            "sentence1_translation": "كيف يمكن إجراء استعلام عن المنتج؟",
+            "sentence2_translation": "كيف يمكن التحقق من حالة المنتج؟"
+          },
+          {
+            "sentence1": "Ürünün durumu hakkında bilgi alabilir miyim?",
+            "sentence2": "Ürünün şu anki durumu hakkında bilgi alabilir miyim?",
+            "sentence1_translation": "هل يمكنني الحصول على معلومات حول حالة المنتج؟",
+            "sentence2_translation": "هل يمكنني الحصول على معلومات حول الحالة الحالية للمنتج؟"
+          },
+          {
+            "sentence1": "Kargo ücretini nasıl ödeyebilirim?",
+            "sentence2": "Kargo ücretini nasıl ödeyebilirim?",
+            "sentence1_translation": "كيف يمكنني دفع تكلفة الشحن؟",
+            "sentence2_translation": "كيف يمكنني دفع تكلفة الشحن؟"
+          },
+          {
+            "sentence1": "Kargo teslimat saatleri nedir?",
+            "sentence2": "Kargo ne zaman teslim edilir?",
+            "sentence1_translation": "ما هي ساعات تسليم الشحنة؟",
+            "sentence2_translation": "متى يتم تسليم الشحنة؟"
+          }
+          ,
+          {
+            "sentence1": "Kargomu yakın bir şubeden alabilir miyim?",
+            "sentence2": "Kargonu yakın bir şubeden alabilir miyim?",
+            "sentence1_translation": "هل يمكنني استلام شحنتي من فرع قريب؟",
+            "sentence2_translation": "هل يمكنني استلام الشحنة من فرع قريب؟"
+          },
+          {
+            "sentence1": "Kargom elime ulaşmadı, ne yapmalıyım?",
+            "sentence2": "Kargonuz teslim edilmediyse ne yapmalısınız?",
+            "sentence1_translation": "لم تصل شحنتي، ماذا يجب علي فعله؟",
+            "sentence2_translation": "إذا لم يتم تسليم الشحنة، ما العمل الذي يجب أن تقوم به؟"
+          },
+          {
+            "sentence1": "Kargo takip numarasıyla kargomu nerede bulabilirim?",
+            "sentence2": "Kargo takip numarası kullanarak kargonuzu nasıl bulabilirim?",
+            "sentence1_translation": "كيف يمكنني العثور على شحنتي باستخدام رقم تتبع الشحنة؟",
+            "sentence2_translation": "كيف يمكنني العثور على الشحنة باستخدام رقم تتبع الشحنة؟"
+          },
+          {
+            "sentence1": "Kargomu başkası alabilir mi?",
+            "sentence2": "Başka biri kargonuzu teslim alabilir mi?",
+            "sentence1_translation": "هل يمكن لشخص آخر استلام شحنتي؟",
+            "sentence2_translation": "هل يمكن لشخص آخر استلام الشحنة؟"
+          },
+          {
+            "sentence1": "Kargo teslimatı için kimlik bilgisi gerekliliği var mı?",
+            "sentence2": "Kargo teslimi için kimlik belgesi gerekir mi?",
+            "sentence1_translation": "هل هناك حاجة إلى معلومات الهوية لتسليم الشحنة؟",
+            "sentence2_translation": "هل هناك حاجة إلى بطاقة هوية لتسليم الشحنة؟"
+          },
+          {
+            "sentence1": "Kargo kutusu boyutları hakkında bilgi alabilir miyim?",
+            "sentence2": "Kargo paketi boyutları hakkında bilgi verebilir misiniz?",
+            "sentence1_translation": "هل يمكنني الحصول على معلومات حول أحجام صناديق الشحن؟",
+            "sentence2_translation": "هل يمكنكم تقديم معلومات حول أحجام حزم الشحن؟"
+          },
+          {
+            "sentence1": "Kargomu sigortalatmalı mıyım?",
+            "sentence2": "Kargonu sigorta ettirmeli miyim?",
+            "sentence1_translation": "هل يجب علي تأمين شحنتي؟",
+            "sentence2_translation": "هل يجب علي تأمين الشحنة؟"
+          },
+          {
+            "sentence1": "Kargo gönderiminde hangi paketleme malzemeleri kullanılmalı?",
+            "sentence2": "Kargo gönderirken hangi ambalaj malzemeleri kullanmalıyım?",
+            "sentence1_translation": "ما هي المواد التعبئة التي يجب استخدامها في شحن البضائع؟",
+            "sentence2_translation": "ما هي المواد التعبئة التي يجب استخدامها عند إرسال الشحنة؟"
+          },
+          {
+            "sentence1": "Kargom ne kadar sürede teslim edilir?",
+            "sentence2": "Kargonun ulaşması ne kadar sürer?",
+            "sentence1_translation": "كم من الوقت يستغرق تسليم شحنتي؟",
+            "sentence2_translation": "كم من الوقت يستغرق وصول الشحنة؟"
+          },
+          {
+            "sentence1": "Kargo takip numarası nasıl elde edebilirim?",
+            "sentence2": "Kargonun takip numarasını nasıl alabilirim?",
+            "sentence1_translation": "كيف يمكنني الحصول على رقم تتبع الشحنة؟",
+            "sentence2_translation": "كيف يمكنني الحصول على رقم تتبع الشحنة؟"
+          },
+          {
+            "sentence1": "Ürünümü geri göndermek istiyorum, hangi adımları izlemeliyim?",
+            "sentence2": "İade işlemi için hangi prosedürü takip etmeliyim?",
+            "sentence1_translation": "أرغب في إعادة منتجي، ما هي الخطوات التي يجب أن أتبعها؟",
+            "sentence2_translation": "ما هي الإجراءات التي يجب اتباعها لعملية الاسترجاع؟"
+          },
+          {
+            "sentence1": "Kargomun güzergahını nasıl تتبع edebilirim?",
+            "sentence2": "Kargonun rotasını nasıl izleyebilirim?",
+            "sentence1_translation": "كيف يمكنني تتبع مسار شحنتي؟",
+            "sentence2_translation": "كيف يمكنني تتبع مسار الشحنة؟"
+          },
+          {
+            "sentence1": "Kargo takip numarasını nereden bulabilirim?",
+            "sentence2": "Kargo gönderi numarasını nasıl öğrenebilirim?",
+            "sentence1_translation": "من أين يمكنني العثور على رقم تتبع الشحنة؟",
+            "sentence2_translation": "كيف يمكنني معرفة رقم تتبع الشحنة؟"
+          },
+          {
+            "sentence1": "Kargonun hangi taşıyıcıyla gönderildiğini nasıl öğrenebilirim?",
+            "sentence2": "Kargonun hangi kargo şirketi tarafından taşındığını nasıl öğrenirim?",
+            "sentence1_translation": "كيف يمكنني معرفة الشركة الناقلة التي نقلت الشحنة؟",
+            "sentence2_translation": "كيف يمكنني معرفة شركة الشحن التي نقلت الشحنة؟"
+          },
+          {
+            "sentence1": "Kargonun ne kadar süre içinde teslim edilmesi gerekiyor?",
+            "sentence2": "Kargonun maksimum teslim süresi nedir?",
+            "sentence1_translation": "كم من الوقت يجب أن تتم تسليم الشحنة؟",
+            "sentence2_translation": "ما هو أقصى وقت لتسليم الشحنة؟"
+          }
+          ,
+          {
+            "sentence1": "Kargomu yeni bir adrese yönlendirebilir miyim?",
+            "sentence2": "Kargonun teslimat adresini değiştirebilir miyim?",
+            "sentence1_translation": "هل يمكنني توجيه شحنتي إلى عنوان جديد؟",
+            "sentence2_translation": "هل يمكنني تغيير عنوان تسليم الشحنة؟"
+          },
+          {
+            "sentence1": "Ürünün durumu hakkında güncel bilgi alabilir miyim?",
+            "sentence2": "Ürünün şu anki durumu nedir?",
+            "sentence1_translation": "هل يمكنني الحصول على معلومات حديثة حول حالة المنتج؟",
+            "sentence2_translation": "ما هو الوضع الحالي للمنتج؟"
+          },
+          {
+            "sentence1": "Kargo ücretini hangi yöntemlerle ödeyebilirim?",
+            "sentence2": "Kargo ücretini hangi ödeme seçenekleriyle ödeyebilirim?",
+            "sentence1_translation": "كيف يمكنني دفع تكلفة الشحن؟",
+            "sentence2_translation": "كيف يمكنني دفع تكلفة الشحن باستخدام أي خيارات دفع؟"
+          },
+          {
+            "sentence1": "Kargomu hangi saatler arasında teslim alabilirim?",
+            "sentence2": "Kargonun teslim alınabileceği saat dilimleri nelerdir?",
+            "sentence1_translation": "في أي ساعات يمكنني استلام شحنتي؟",
+            "sentence2_translation": "ما هي الفترات الزمنية التي يمكن استلام الشحنة فيها؟"
+          },
+          {
+            "sentence1": "Kargom elime ulaşmadı, bu durumda ne yapmalıyım?",
+            "sentence2": "Kargonun hala ulaşmamış olması durumunda ne gibi adımlar atmalıyım?",
+            "sentence1_translation": "إذا لم تصلني شحنتي، ماذا يجب علي فعله في هذه الحالة؟",
+            "sentence2_translation": "إذا لم تصل الشحنة بعد، ما هي الخطوات التي يجب أن أتخذها؟"
+          },
+          {
+            "sentence1": "Kargomun teslimatı ne kadar süre içinde yapılır?",
+            "sentence2": "Kargonun teslimatı ne kadar zaman alır?",
+            "sentence1_translation": "كم من الوقت يستغرق تسليم شحنتي؟",
+            "sentence2_translation": "كم من الوقت يستغرق تسليم الشحنة؟"
+          },
+          {
+            "sentence1": "Kargo takip numarasını nereden alabilirim?",
+            "sentence2": "Kargo gönderi numarası nereden bulunur?",
+            "sentence1_translation": "من أين يمكنني الحصول على رقم تتبع الشحنة؟",
+            "sentence2_translation": "من أين يمكنني العثور على رقم الشحنة؟"
+          },
+          {
+            "sentence1": "İade işlemi nasıl başlatılır?",
+            "sentence2": "Ürünü iade etmek için ne yapmalıyım?",
+            "sentence1_translation": "كيف يمكن بدء عملية الإرجاع؟",
+            "sentence2_translation": "ما الخطوات التي يجب اتخاذها لاسترجاع المنتج؟"
+          },
+          {
+            "sentence1": "Kargonun güzergahını nasıl تتبع edebilirim?",
+            "sentence2": "Kargonun rotasını nasıl izleyebilirim?",
+            "sentence1_translation": "كيف يمكنني تتبع مسار الشحنة؟",
+            "sentence2_translation": "كيف يمكنني متابعة مسار الشحنة؟"
+          },
+          {
+            "sentence1": "Kargo takip numarasını nereden öğrenebilirim?",
+            "sentence2": "Kargonun takip numarasını nasıl alabilirim?",
+            "sentence1_translation": "من أين يمكنني معرفة رقم تتبع الشحنة؟",
+            "sentence2_translation": "كيف يمكنني الحصول على رقم تتبع الشحنة؟"
+          },
+          {
+            "sentence1": "Kargonun hangi nakliye firmasıyla gönderildiğini nereden öğrenebilirim?",
+            "sentence2": "Kargonun taşıma şirketi hangisi olduğunu nasıl öğrenirim?",
+            "sentence1_translation": "من أين يمكنني معرفة شركة النقل التي نقلت الشحنة؟",
+            "sentence2_translation": "كيف يمكنني معرفة شركة الشحن التي نقلت الشحنة؟"
+          },
+          {
+            "sentence1": "Kargonun kaç günde teslim edilmesi gerekiyor?",
+            "sentence2": "Kargonun teslim süresi ne kadardır?",
+            "sentence1_translation": "كم يجب أن تستغرق الشحنة لتسليمها؟",
+            "sentence2_translation": "ما هو الوقت الذي يجب فيه تسليم الشحنة؟"
+          }
+          
+    ]
+  }
+  
